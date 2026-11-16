@@ -1,0 +1,7 @@
+name: "Win95 提示窗口"
+author: Doubao
+description: Windows 95 风格提示图标音符（信息 / 问号 / 警告 / 错误）
+hitFx: [8, 7]
+holdAtlas: [50, 50]
+holdAtlasMH: [130, 130]
+hitFxScale: 0.9
